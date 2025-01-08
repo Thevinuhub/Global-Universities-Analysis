@@ -2,19 +2,6 @@
 
 Comprehensive global analysis of university success utilizing **Power BI, Excel, and SQL** integrating data from diverse ranking systems and criteria.
 
-
----
-
-
-## How to Access Project Materials
-
-- [Link to Access the PowerPoint Presentation and Video Walkthrough](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
-  - Access the PowerPoint presentation for an in-depth understanding of the project. Additionally, watch the accompanying video walkthrough for a detailed explanation of key insights and methodologies.
-
-  [![PowerPoint Presentation](https://img.shields.io/badge/PowerPoint-FF0000?style=for-the-badge&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/1_Nie-2xwJp_82N4jTMboh_ebvtKNo8oI/edit?usp=sharing&ouid=107078492954401048445&rtpof=true&sd=true)
-
----
-
 ## Overview
 
 The "University Success Analysis" is a comprehensive capstone project exploring the impact of ranking systems on universities. It aims to compare university rankings, evaluate the influence of ranking criteria, and analyze dynamic shifts in university metrics over time.
